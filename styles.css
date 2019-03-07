@@ -1,0 +1,31 @@
+img{
+    height: 300px;
+}
+.first{
+    font-family: 'Lobster', cursive;
+    color: white;
+    }
+.second{
+    font-family: 'Pacifico', cursive;
+
+     color:blue;
+    }
+.third{font-family: 
+'Dancing Script', cursive;
+   color:yellow;
+    }
+
+.fourth{
+    font-family: 'Courgette', cursive;
+    color:red;
+}
+.fith{
+    font-family: 'Satisfy', cursive;
+   color:white;
+}
+body{
+  background-color:black;  
+    }
+
+
+
